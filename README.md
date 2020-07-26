@@ -10,3 +10,16 @@ with this application you can :
 5. delete selected user from favorite in sqlite database
 6. send reminder notification to back to application at 9 A.M
 7. change language (device language)
+
+<b>Libraries and Other Stuff Applied</b>
+
+1. room
+2. material design
+3. viewmodel + livedata
+4. retrofit + okhttpclient
+5. glide
+6. coroutine
+7. setting preferences
+8. alarm manager
+9. notification
+10. MVVM architechture + repository pattern
