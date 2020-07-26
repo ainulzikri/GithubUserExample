@@ -1,4 +1,4 @@
-GITHUB USER APP
+<b>GITHUB USER APP</b>
 
 a simple application use api https://api.github.com/. with this application you can : 
 1. search github user by name
