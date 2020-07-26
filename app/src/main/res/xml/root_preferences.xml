@@ -1,0 +1,16 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:iconSpaceReserved="false">
+    <SwitchPreference
+        app:iconSpaceReserved="false"
+        android:defaultValue="false"
+        android:key="@string/notification_key"
+        android:summary="@string/notification_summary"
+        android:title="@string/notification_title" />
+
+    <Preference
+        app:iconSpaceReserved="false"
+        android:key="@string/language_key"
+        android:summary="@string/language_summary"
+        android:title="@string/language_title" />
+</PreferenceScreen>

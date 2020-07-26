@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Github User</string>
+    <string name="search_hint">Cari Pengguna Github</string>
+    <string name="user_image">Foto Pengguna</string>
+    <string name="user_name">(%s)</string>
+    <string name="user_repo">Repository</string>
+    <string name="response_failure">"response.IsNotSuccess"</string>
+    <string name="error1">"onFailure1"</string>
+    <string name="error2">onFailure2</string>
+    <string name="error3">onFailure3</string>
+    <string name="user_login">Login Pengguna</string>
+    <string name="user_company">"Perusahaan"</string>
+    <string name="user_location">"Lokasi"</string>
+    <string name="is">: </string>
+    <string name="insert_success">Ditambahkan ke Pengguna Favorit</string>
+    <string name="remove_success">Dihapus dari Pengguna Favorit</string>
+    <string name="remove_all_success">Semua Pengguna Favorit Telah Dihapus</string>
+    <string name="favorite_icon">Favorit</string>
+    <string name="setting_icon">Pengaturan</string>
+    <string name="remove_favorite_title">Hapus dari Favorit</string>
+    <string name="remove_all_favorite_title">Hapus Semua dari Favorit</string>
+    <string name="remove_favorite_message">Apakah kamu ingin menghapus pengguna ini dari Favorit?</string>
+    <string name="remove_all_favorite_message">Apakah kamu ingin menghapus semua pengguna dari Favorit?</string>
+    <string name="favorite_already_empty">Pengguna Favorit Sudah Kosong</string>
+    <string name="no_favorite">Kamu Tidak Memiliki Pengguna Favorit</string>
+    <string name="yes">ya</string>
+    <string name="no">tidak</string>
+    <string name="undo">Undo</string>
+    <string name="empty">-</string>
+    <string name="follower">Pengikut</string>
+    <string name="following">Diikuti</string>
+    <string name="clear_favorite">Hapus Semua Favorit</string>
+    <string name="title_activity_settings">Pengaturan</string>
+    <string name="notification_message">Hi!. Ini Adalah Notifikasi Harian</string>
+
+    <!-- notification -->
+    <string name="channel_id">Channel_1</string>
+    <string name="channel_name">alarm_notification_channel</string>
+
+    <!-- Preference Key -->
+    <string name="notification_key">notification_key</string>
+    <string name="language_key">language_key</string>
+
+    <!-- Preference Titles -->
+    <string name="notification_title">Notifikasi</string>
+    <string name="language_title">Bahasa</string>
+
+    <!-- Summary Preferences -->
+    <string name="notification_summary">Notifikasi Untuk Kembali ke Aplikasi Jam 9 Pagi</string>
+    <string name="language_summary">Tukar Pengaturan Bahasa</string>
+
+</resources>
