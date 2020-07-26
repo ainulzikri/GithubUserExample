@@ -12,7 +12,6 @@ with this application you can :
 7. change language (device language)
 
 <b>Libraries and Other Stuff Applied</b>
-
 1. room
 2. material design
 3. viewmodel + livedata
